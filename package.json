@@ -6,16 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kingsleychimezie/be-my-valetine.git"
-  },
   "keywords": [
     "valentine's",
     "valentines day",
     "firebase",
     "lockdown love"
   ],
-  "author": "Kingsley Chimezie",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://odo48.github.io/valentines/"
+
 }

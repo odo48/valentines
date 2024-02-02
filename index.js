@@ -1,10 +1,3 @@
-/*
- * Created Date: Wednesday, 3rd February 2021, 7:08:22 pm
- * Author: Kingsley Chimezie
- */
-
-
- 
 /* VARIABLES
 ************************************************************************************/
  // Get elements

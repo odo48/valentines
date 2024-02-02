@@ -17,8 +17,6 @@ Data stored in Cloud Firestore database:
 - User's timestamp at the time of answer
 - User's public IP
 
-[Demo](https://demo.kingsley.tech/be-my-valentine)  
-
 Made with ❤ using:  
 - [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)  
@@ -57,21 +55,10 @@ Made with ❤ using:
 ### License 📜 ###
 - MIT
 
-See LICENSE.md
-
-### Versions 🔢 ###
-- [Bitbucket Repository](https://bitbucket.org/KingsleyChimezie/be-my-valentine/downloads/?tab=tags)
-- [GitHub Repository](https://github.com/KingsleyChimezie/be-my-valentine/releases)
-
 ### Acknowledgments 👏 ###
 - [Caitlin Haaf](https://codepen.io/caitlinhaaf/pen/KKpgpqX) - Original SVG and animation for the bee
 
 ### People 👥 ###
 | Name                	|  Title              	|  Authority Level      | Website                  	|
 |-------------------	| -------------------	| -------------------	|--------------------------	|
-| Kingsley Chimezie 	|  Author +        	    |  Admin +        	    | http://www.kingsley.tech 	|
-
-[**Title** and **authority level** definitions.](https://gist.github.com/KingsleyChimezie/5db14710db85ea34353ce64d272c5966)
-
----
-© Kingsley Chimezie | [Kingsley Chimezie Creations](https://kingsley.tech)
+| Teodor Dacu	|  Author +        	    |  Admin +        	    | |
